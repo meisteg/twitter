@@ -1,8 +1,6 @@
 <?php
 /**
- * Twitter module for phpWebSite
- *
- * See docs/CREDITS for copyright information
+ * Copyright (c) 2008-2009 Gregory Meiste
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,8 +16,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author Greg Meiste <blindman1344 at users dot sourceforge dot net>
- * @version $Id: permission.php,v 1.1.1.1 2008/06/01 16:47:56 blindman1344 Exp $
+ * @package Twitter
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 $use_permissions  = FALSE;
